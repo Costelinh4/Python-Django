@@ -1,0 +1,4 @@
+MTV
+model = responsável em acessar o Banco de Dados
+Template = Parte visual do seu site // dados exibidos para o usuario
+view = Tratar as requisições do site
